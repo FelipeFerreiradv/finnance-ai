@@ -7,6 +7,7 @@ First, run the development server:
 ```bash
 npm run dev
 ```
+![image](https://github.com/user-attachments/assets/e548af33-4904-4efd-9e94-c9dbe0b414df)
 ![image](https://github.com/user-attachments/assets/c77e6c72-1125-4539-ac71-251c3fe48a77)
 ![image](https://github.com/user-attachments/assets/455608cb-eef9-45ab-838e-fd844088ae34)
 ![image](https://github.com/user-attachments/assets/42e2fae7-5433-4791-a0b8-c4b3c17c9401)
