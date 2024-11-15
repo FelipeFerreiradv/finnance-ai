@@ -1,17 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Project Photos
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 ![image](https://github.com/user-attachments/assets/c77e6c72-1125-4539-ac71-251c3fe48a77)
 ![image](https://github.com/user-attachments/assets/455608cb-eef9-45ab-838e-fd844088ae34)
